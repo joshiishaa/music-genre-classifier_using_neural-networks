@@ -1,0 +1,5 @@
+Download the data set from Kaggle -
+https://www.kaggle.com/andradaolteanu/gtzan-dataset-music-genre-classification
+
+API command - 
+kaggle datasets download -d andradaolteanu/gtzan-dataset-music-genre-classification
